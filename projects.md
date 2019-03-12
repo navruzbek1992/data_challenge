@@ -12,3 +12,4 @@ This project contains two parts. In the first half, stock returns are analyzed a
 
 ## Contact me
 
+[navruzbek1992@gmail.com](mailto:navruzbek1992@gmail.com)
