@@ -6,9 +6,16 @@ permalink: /projects/
 
 ### [Project 1](/projects/first_project.html) 
 
-This project contains two parts. In the first half, stock returns are analyzed and average momentum effect is estimated. In the second half, credit card transactions data from Oklahoma state is investigated.
+In this project, stock returns are investigated in order to estimate the average momentum and mean reversion effect. By fitting AR model I analyzed how stock returns could exhibit one pattern and change it is behaviour significantly. 
 
 ***
+
+### [Project 2](/projects/second_project.html) 
+
+Free data of credit card transactions from Oklahoma state is obtained for further investigation. Data showed inteteresting patterns among credit card holders, such as customers on average become indebted (negative transaction) when purchasing airlines tickets. 
+
+***
+
 
 ## Contact me
 
