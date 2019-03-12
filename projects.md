@@ -17,6 +17,7 @@ In this project, stock returns are investigated in order to estimate the average
 Free data of credit card transactions in Oklahoma State is obtained for analysis. Data showed inteteresting patterns among credit card holders, such as customers on average become indebted (negative transaction) when purchasing airlines tickets. 
 
 [Link for the data](https://navruzbek1992.github.io/stock-return-analysis/res_purchase_2014.csv)
+
 ***
 
 
