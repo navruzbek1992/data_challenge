@@ -8,7 +8,7 @@ permalink: /projects/
 
 In this project, stock returns are investigated in order to estimate the average momentum and mean reversion effect. By fitting AR model I analyzed how stock returns could exhibit one pattern and change it is behaviour significantly. 
 
-[Link for data]()
+[Link for data](https://navruzbek1992.github.io/stock-return-analysis/returns_20181228.csv)
 
 ***
 
@@ -16,7 +16,7 @@ In this project, stock returns are investigated in order to estimate the average
 
 Free data of credit card transactions from Oklahoma state is obtained for further investigation. Data showed inteteresting patterns among credit card holders, such as customers on average become indebted (negative transaction) when purchasing airlines tickets. 
 
-[Link for data]()
+[Link for data](https://navruzbek1992.github.io/stock-return-analysis/res_purchase_2014.csv)
 ***
 
 
