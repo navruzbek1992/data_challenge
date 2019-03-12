@@ -7,9 +7,8 @@ permalink: /about/
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* Ph.D. degree from Tohoku University.
+* M.S. degree from Tohoku University.
 
 ## Roles
 
