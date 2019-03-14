@@ -6,7 +6,7 @@ permalink: /projects/
 
 ### [Momentum and mean reversion in stock returns](/projects/project1.nb.html) 
 
-In this project, stock returns are investigated in order to estimate the average momentum and mean reversion effect. By fitting AR(1) model I analyzed how stock returns could exhibit one pattern and change it is behaviour significantly. 
+Data is hypothetically developed stock returns that has momentum behaviour in some period and mean reversion in the rest of the data. This challange requires to find a month and year when this behaviour changes. Moreover, the average momentum and mean reversion for all stocks should be estimated. 
 
 [Link for the data](https://navruzbek1992.github.io/stock-return-analysis/returns_20181228.csv)
 
@@ -14,7 +14,7 @@ In this project, stock returns are investigated in order to estimate the average
 
 ### [Credit card transactions](/projects/project2.nb.html) 
 
-Free data of credit card transactions in Oklahoma State is obtained for analysis. Data showed inteteresting patterns among credit card holders, such as customers on average become indebted (negative transaction) when purchasing airlines tickets. 
+Data is credit card transactions of employees of the State of Oklahoma. Data consistes of transactions made by individuals at different vendors. Data should be slightly cleaned and processed to get any meaningful reults. Data showes inteteresting patterns among credit card holders, such as customers on average become indebted (negative transaction) when purchasing airlines tickets. On average the demand for airlines and touristic agencies increased. This possibly due to the development in tourism and airlines industry around the world. However, data shows several industries where the demand dropped significantly. 
 
 [Link for the data](https://navruzbek1992.github.io/stock-return-analysis/res_purchase_2014.csv)
 
