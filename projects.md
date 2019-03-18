@@ -20,6 +20,12 @@ Data is credit card transactions of employees of the State of Oklahoma. Data con
 
 ***
 
+### [News and stock return relationship](/projects/project3.nb.html)
+
+This challange is about exploring the imminent effect of news on stock price movement. First, we scrape through web to gather news information about specific stock. Following it, text is anlayzed through sentiment analysis to investigate if the text is negative or positive about the stock. Lastly, we check how it improves CAPM. 
+
+***
+
 
 ## Contact me
 
