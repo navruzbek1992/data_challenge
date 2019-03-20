@@ -24,6 +24,8 @@ Data is credit card transactions of employees of the State of Oklahoma. Data con
 
 This challange is about exploring the imminent effect of news on stock price movement. First, I scrape through web to gather news information about specific stock. Following it, text is analyzed through sentiment analysis to investigate if the text is negative or positive about the stock. Lastly, I check how it improves CAPM. (Codes are given in Python)
 
+[Link for the data](https://navruzbek1992.github.io/stock-return-analysis/project3)
+
 ***
 
 
