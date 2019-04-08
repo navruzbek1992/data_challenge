@@ -36,7 +36,11 @@ Following the scraping through the web, text is cleaned thoroughly and analyzed 
 
 ***
 
+### [Generalized Lehmann's Alternative Model (Tutorial)](/projects/glam_demonstration.html)
 
+This tutorial is a brief introduction for GLAM. 
+
+***
 ## Contact me
 
 [navruzbek1992@gmail.com](mailto:navruzbek1992@gmail.com)
