@@ -7,8 +7,8 @@ permalink: /about/
 
 ## Education
 
-* Ph.D. degree from Tohoku University.
-* M.S. degree from Tohoku University.
+* Ph.D. in Economics from Tohoku University.
+* M.A. from Tohoku University.
 
 ## Roles
 
@@ -23,4 +23,4 @@ Founder, data science challenges.
     
 ## Contact me
 
-[navruzbek1992@gmail.com](mailto:navruzbek1992@gmail.com)
+[email](mailto:karamatov.navruzbek.p5@dc.tohoku.ac.jp)
