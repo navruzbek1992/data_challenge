@@ -43,4 +43,4 @@ This tutorial is a brief introduction for GLAM.
 ***
 ## Contact me
 
-[navruzbek1992@gmail.com](mailto:navruzbek1992@gmail.com)
+[karamatov.navruzbek.p5@dc.tohoku.ac.jp](mailto:karamatov.navruzbek.p5@dc.tohoku.ac.jp)
