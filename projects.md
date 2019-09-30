@@ -12,7 +12,7 @@ This tutorial is about exploring the imminent effect of news on stock price move
 
 Following the scraping through the web, text is cleaned thoroughly and analyzed through sentiment analysis (VADER) to investigate if the text contains negative or positive sentiment about the stock. Lastly, I used newly constructed variable to explain stock returns together with market return (empirical CAPM). (Answer codes are given in Python).
 
-[Link for the data](https://navruzbek1992.github.io/stock-return-analysis/project3.zip)
+[Link for the data](https://github.com/navruzbek1992/data_science_challenges/blob/master/data.zip)
 
 ***
 
