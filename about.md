@@ -20,6 +20,6 @@ permalink: /about/
 * `Finance` / `Economics`
 * `Research` / `Analytics`
 
-## Contact me
+## Contact
 
 [karamatov.navruzbek@gmail.com](mailto:karamatov.navruzbek@gmail.com)
