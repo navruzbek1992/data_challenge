@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+## Experience
+
+* Data scientist at [Basset Inc.](www.basset.ai)
 
 ## Education
 
