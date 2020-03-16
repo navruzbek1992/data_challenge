@@ -12,11 +12,11 @@ permalink: /about/
 
 ## Skills
 
-* **Skill 1** - `Python` / `R` / `SQL`
-* **Skill 2** - `Finance` / `Economics`
-* **Skill 3** - `Research` / `Analysis`
-    
-    
+* `Python` / `R` / `SQL`
+* `Data Science`
+* `Finance` / `Economics`
+* `Research` / `Analysis`
+
 ## Contact me
 
 [karamatov.navruzbek@gmail.com](mailto:karamatov.navruzbek@gmail.com)
