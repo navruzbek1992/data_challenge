@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Experience
 
-* Data scientist at [Basset Inc.](https://basset.ai/)
+* Data Scientist at [Basset Inc.](https://basset.ai/)
 
 ## Education
 
