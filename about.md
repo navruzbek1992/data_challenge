@@ -15,7 +15,7 @@ permalink: /about/
 * `Python` / `R` / `SQL`
 * `Data Science`
 * `Finance` / `Economics`
-* `Research` / `Analysis`
+* `Research` / `Analytics`
 
 ## Contact me
 
