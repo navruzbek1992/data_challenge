@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Data Science Challenges
+name: Data Science Exercises
 
 # Short bio or description (displayed in the header)
 description: Navruzbek Karamatov
@@ -16,7 +16,7 @@ description: Navruzbek Karamatov
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: karamatov.navruzbek.p5@dc.tohoku.ac.jp
+  email: karamatov.navruzbek@gmail.com
   facebook:
   flickr:
   github: 
@@ -45,7 +45,7 @@ url: http://navruzbek1992.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/data_science_challenges"
+baseurl: "/data_science_exercises"
 
 #
 # !! You don't need to change any of the configuration flags below !!
