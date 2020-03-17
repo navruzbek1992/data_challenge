@@ -21,6 +21,3 @@ Following the scraping through the web, text is cleaned thoroughly and analyzed 
 This tutorial is a brief introduction for GLAM. 
 
 ***
-## Contact me
-
-[karamatov.navruzbek.p5@dc.tohoku.ac.jp](mailto:karamatov.navruzbek.p5@dc.tohoku.ac.jp)
