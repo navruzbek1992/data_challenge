@@ -5,10 +5,9 @@ permalink: /projects/
 ---
 
 
-### [Reverse google image search of objects detected by tensorflow (Tutorial)]
+### [Reverse google image search of objects detected by tensorflow (Tutorial)](/projects/object_detection.html)
 
-Sometimes we need to perform reverse google image search in order to look up for information about the object in the photo or video.
-However, photos could have include other objects as well which makes reverse image search impossible or reduces its accuracy.
+Sometimes we need to perform reverse google image search in order to look up for som einformation about the object in the photo or video. However, photos could have include other objects as well which makes reverse image search impossible or reduces its accuracy.
 I applied tensorflow's pre-trained models for object detection and for reverse image search. It could be used to extract the part of the photo that contains the object and perform image search.
 
 ### [News and stock return relationship (Tutorial)](/projects/news_and_boeing_stocks.html)
