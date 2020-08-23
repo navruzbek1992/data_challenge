@@ -4,6 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
+### [Blockchain network](/projects/tx_network.html)
 
 ### [Reverse google image search of objects detected by tensorflow (Tutorial)](/projects/object_detection.html)
 
